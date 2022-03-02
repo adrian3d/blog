@@ -10,7 +10,7 @@ baseurl: ''
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: fr
+lang: fr-FR
 
 # Additional parameters for datetime localization, optional. › https://github.com/iamkun/dayjs/tree/dev/src/locale
 prefer_datetime_locale:
@@ -26,28 +26,13 @@ title: Mon blog                          # the main title
 tagline: ''   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  
+
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
 github:
-  username: adrian3lr             # change to your github username
-
-twitter:
-  username:             # change to your twitter username
-
-social:
-  # Change to your full name.
-  # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: adrian3ds
-  email:              # change to your email address
-  links:
-    # The first element serves as the copyright owner's link
-    - https://github.com/adrian3ds       # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+  username: adrian3ds             # change to your github username
 
 google_site_verification:               # fill in to your verification string
 
@@ -82,7 +67,7 @@ theme_mode: dark  # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://avatars.githubusercontent.com/u/3417385?v=4
 
 # boolean type, the global switch for ToC in posts.
 toc: true
