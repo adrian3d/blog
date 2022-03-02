@@ -6,9 +6,9 @@
 !.travis.yml
 
 # bundler cache
-_site
+_site/*
+!_site/.gitkeep
 vendor
-Gemfile.lock
 
 # rubygem
 *.gem
