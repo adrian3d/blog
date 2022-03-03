@@ -4,5 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+# Adrian Vaucoret
+Développeur web full-stack depuis 2011.
+
+Actuellement en poste en full-remote chez [Journal Media](https://www.thejournal.ie/).
+
+Mes outils de prédilection sont le PHP, le JS et un peu de logique. Pour le reste, ce n'est pas le framework qui est important mais de faire les bons choix d'architecture logicielle.
